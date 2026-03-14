@@ -3,8 +3,6 @@
 This repository contains a complete implementation of **JWT Authentication and Authorization** using **ASP.NET Core Web API (.NET 10)**.
 
 The project demonstrates how to build a secure authentication system with **JWT tokens, role-based authorization, and protected endpoints**.
-It was developed step-by-step as part of a **YouTube tutorial series** to explain real-world authentication workflows in ASP.NET Core.
-
 ---
 
 # Features
